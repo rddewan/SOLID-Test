@@ -16,6 +16,7 @@ void main(List<String> args) {
   hourlySalary.calculateAttendanceTime();
   hourlySalary.calculateSalary();
   
+  
 
   final Salary commissionSalary = CommissionSalary();
   commissionSalary.calculateSalary();
